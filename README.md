@@ -42,3 +42,4 @@ Developed by:m.p.dhanalakshmi RegisterNumber:25017537
 <img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/85d366c7-86c9-47ef-b417-385bf3034e11" />
 
 **RESULTS**
+hence serial-in and serial-out register verified.
